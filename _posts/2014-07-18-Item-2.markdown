@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2025-08-11
+img: 2_Vestido longo verde.jpg
+alt: image-alt
+project-date: R$ 30,00
+client:
+category: 
+description: Vestido de tecido leve, cor verde e estampas na barra e busto. Veste M. Tenho 1,60m e fica arrastando um pouco no chão.
+---
