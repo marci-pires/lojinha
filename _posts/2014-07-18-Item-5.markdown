@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2025-08-11
+img: 5_Camisa de botão branca.jpg
+alt: image-alt
+project-date: R$ 40,00
+client:
+category: 
+description: Camisa de botão com tecido macio. Detalhes bordados. 100% algodão. Tamanho P, mas veste M.
+---
