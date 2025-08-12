@@ -6,6 +6,6 @@ img: 8_Tote bag Homem Aranha.jpg
 alt: image-alt
 project-date: R$ 15,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Bolsa-sacola do Homem Aranha. Está um pouco desbotada. Tem dois bolsos na frente.
 ---
