@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 11
+date: 2025-08-11
+img: 11_Item.jpg
+alt: image-alt
+project-date: R$ 50,00
+client:
+category: 
+description: Bolsa pequena da Kipling (original) usada. A cor é um dourado bem bonito. Tem duas divisões com zíper.
+---

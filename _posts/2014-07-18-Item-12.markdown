@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 12
+date: 2025-08-11
+img: 12_Item.jpg
+alt: image-alt
+project-date: R$ 50,00
+client:
+category: 
+description: Bolsa média da Kipling (original) usada. A estampa é bem colorida e tem dois bolsos grandes com zíper.
+---

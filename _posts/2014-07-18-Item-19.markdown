@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 19
+date: 2025-08-11
+img: 19_Item.jpg
+alt: image-alt
+project-date: R$ 60,00
+client:
+category: 
+description: Mochila com estampa de Star Wars. Usei muito e amo. Tem uma divisória interna e um bolso externo com zíper.
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 13
+date: 2025-08-11
+img: 13_Item.jpg
+alt: image-alt
+project-date: R$ 50,00
+client:
+category: 
+description: Mochila da Jansport usada. É bem grandona com muitas divisões e uma estampa de caveirinhas.
+---

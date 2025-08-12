@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 15
+date: 2025-08-11
+img: 15_Item.jpg
+alt: image-alt
+project-date: R$ 50,00
+client:
+category: 
+description: Bolsa pequena da Kipling (original) em rosa metálico. Novinha
+---
