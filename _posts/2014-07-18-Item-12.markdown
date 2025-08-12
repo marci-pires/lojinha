@@ -6,6 +6,6 @@ img: 12_Item.jpg
 alt: image-alt
 project-date: R$ 50,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Bolsa média da Kipling (original) usada. A estampa é bem colorida e tem dois bolsos grandes com zíper.
 ---
