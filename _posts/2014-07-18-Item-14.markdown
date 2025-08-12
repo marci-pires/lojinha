@@ -6,6 +6,6 @@ img: 14_Item.jpg
 alt: image-alt
 project-date: R$ 30,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Bolsinha da Anacapri em 100% PVC. Bem resistente. Com zíper.
 ---

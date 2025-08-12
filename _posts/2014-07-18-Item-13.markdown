@@ -6,6 +6,6 @@ img: 13_Item.jpg
 alt: image-alt
 project-date: R$ 50,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Mochila da Jansport usada. É bem grandona com muitas divisões e uma estampa de caveirinhas.
 ---

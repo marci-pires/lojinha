@@ -6,6 +6,6 @@ img: 3_Camisa estampada Bianza.jpg
 alt: image-alt
 project-date: R$ 40,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Camisa 100% viscose, da marca Bianza. Tamanho 36. Veste um M justo.
 ---

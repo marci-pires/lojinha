@@ -6,6 +6,6 @@ img: 7_Bolsa Tommy.jpg
 alt: image-alt
 project-date: R$ 50,00
 client:
-category: 
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
 description: Bolsa grande da Tommy (original). Acompanha alça. O azul está um pouco desbotado. Mas continua linda.
 ---
