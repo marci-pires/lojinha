@@ -4,7 +4,7 @@ modal-id: 6
 date: 2025-08-11
 img: 6_Vestido Maria Filó.jpg
 alt: image-alt
-project-date: R$ 50,00
+project-date: R$ 40,00
 client:
 category: 
 description: Vestido azul marinho da Maria Filó. Tamanho G. 97% algodão e 3% elastano. Fica um chuchu. É mais curto, mas fica na altura do joelho.

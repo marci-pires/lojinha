@@ -4,8 +4,8 @@ modal-id: 14
 date: 2025-08-11
 img: 14_Item.jpg
 alt: image-alt
-project-date: R$ 30,00
+project-date: R$ 25,00
 client:
-category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
+category: 
 description: Bolsinha da Anacapri em 100% PVC. Bem resistente. Com zíper.
 ---
