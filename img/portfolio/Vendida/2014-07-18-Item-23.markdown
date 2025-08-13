@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 23
+date: 2025-08-11
+img: 23_Item.jpg
+alt: image-alt
+project-date: R$ 50,00
+client:
+category: Já está separado para alguém! Manda msg no zap, se quiser entrar na fila.
+description: Bolsa da Mizuno, tamanho 35cm x 35 cm. Bolso grande com zíper e um bolso pequeno externo.
+---
